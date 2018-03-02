@@ -1,0 +1,183 @@
+a1# home assignments were very useful also slack was helpful for resolving matters
+a2# machine learning is my passion
+a3# teaching methods  assignments
+a4# the course content feels quite useful course staff are helpful in the forums no traditional exam lectures were more interesting than lectures in the school on average
+a5# quizzes and the competition were the best part slack is a brilliant idea
+a6# the data analysis project and the programming problems from the assignment
+a7# obtaining formulas from others was useful to understand how the two were linked it gave me some precious knowledge
+a8# the main lecturer nn1 was genuinely excellent i particularly liked that he used used a pen to make notes and workings on the slides normally i say that powerpoint and electronic slides in general are the death of education i feel very strongly but this made up for it totally its important that lecturers go through the workings instead of just pointing to formulas the third-party lecturers were also a good idea the one on speech in particular was really really interesting have her back next year
+a9# lectures were very approachable clear and easy to understand
+a10# lectures and exercise sessions were comprehensive
+a11# interesting topic it was explained why these things are useful
+a12# it covered the basic principles on a sufficient level
+a13# it was possible to take the course without physical attendace on the other hand lecturer was so good that i really wanted and did participated almost every lecture
+a14# the organizing is good course assistants are helpful
+a15# lectures are good materials are good excersises are meaningfull
+a16# it was very good that the course personnel reacted to students concern on workload with the original set of tasks the course workload would have been 10 cr in two periods while it was supposed to be 5 cr in one period the final workload was something like 7 cr in two periods which is not exactly as promised either
+a17# the lectures were mostly useful and interesting the project supported learning because you had to use all your accumulated knowledge
+a18# i liked that there was no exam
+a19# the lecturer was inspirative and the lectures were well done the learning was exercise-based instead of studying one night for an exam
+a20# the content of the course is important and useful going forward allowed students to build a mathematical understanding as well as practicing hard skills
+a21# great lectures and special thumbs up for ta nn4  don not really know how to spell the name  he was able to provide really clear intuition on the ideas presented on the course and insights why the calculations are as they are peergrading has a lot potential it does not feel great just yet but thats probably because of no-one is used to the peergrading just yet in general this has been a course with good balance between practical applications and theory behind the ml
+a22# the lecturer is inspiring and very easy to listen the lecture slides are clean yet informative
+a23# nn1 was an excellent lecturer the best lecturer i have heard in a long time it was also very good to have 2 short lectures per week instead of 1 long one
+a24# lecturer and tutors are good
+a25# nn1 tas seem to really try to communicate and help
+a26# data analysis project was challenging but brought all of the course teachings together the lectures were quite okay and very good that there were recap sessions during the exercises as well
+a27# i loved the dynamism in the course the topics that were covered i really admire the knowledge that nn1 showed us at the lecture he seems to be a real expert
+a28# it looked promising and interesting in the beginning a good start so to say its good that the group work could be done alone
+a29# very few things the final grade point limits were set reasonably
+a30# good combination of all basic parts of ml it was good that we needed to implement stuff from the beginning by ourselves gradient descent etc is good to do at least once from scratch
+a31# a wide variety of topics covering the basics of machine learning nn1 seemed very motivated and excited about the topic changing deadlines and reducing course load after student concerns somewhat alleviated the shortcomings
+a32# lectures were good enough details but still easy to understand the kaggle competition was fun way to learn about how to optimise a ml pipeline and model accuracy logloss
+a33# the material the tas and the lecturers
+a34# the project has been very informative and helpful for learning
+a35# it is related to the real very well
+a36# diversity of problems good material
+a37# topics covered most of the basic things in machine learning
+a38# slides
+a39# really interesting topic liked the peergrading and the amount of various learning methods 
+a40# course staff was good and lectures were interesting machine learning is an interesting topic and the course motivated me to learn more about it
+a41# the project home assignments and the quizzes
+a42# the project the home assignments
+a43# can not think of a single thing that is good worst course i have taken honestly just get a new prof
+a44# the material and contents of the course were quite comprehensive and they give me a solid foundation on the basic concepts of machine learning
+a45# the lectures had a good pace and they went enough into details but not too much
+a46# active course staff good lecturer nice lectures nice guest lectures
+a47# the lectures were excellent and i learned a lot there
+a48# enthusiastic lecturing style is inspiring home assignments were clearly presented and a pleasure to read
+a49# the lectures were interesting but unfortunately they were the only good thing in the course because of the interesting topic the course has a great potential to become a good course but right now it is faaaaaaar away from that
+a50# the teacher nn1 was really motivated about the subject
+a51# bad resources way too theoretical to be basic principles youtube offers better learning material
+a52# suits well for remote working for those of us no being able to attend lectures   exercises interesting project work
+a53# good assignments and interesting lectures
+a54# lectures assignments
+a55# the technical quality of the assignments was excellent also i wish other lectures as aalto were as positive and as motivated as nn1
+a56# data analysis project was very good and interesting lectures and exercise garages were not mandatory i did not have chance to attempt them home assignments were mostly interesting slack channel was a nice addition
+a57# topic itself is really interesting and it was really great to learn how machine learning works
+a58# the assignments were mostly good and the exercise quizzes were helpful the lectures were interesting
+a59# the assignments had a good coverage over the subject
+a60# finally we have a course where both annotations and clean slides are published slides have improved from past years i think i have attended this course before
+a61# good lectures good to have slack channel good that not all exercises were in the end mandatory otherwise there would have been way too much work
+a62# i really find the topic interesting structuring the topics regression classification etc clearly was really helpful for understanding what was supposed to be learned in the course
+a63# project kaggle competition is amazing replace exam with quizzes home assignments and projects really supported meaningful learning
+a64# interesting area in generalexercises but maybe problems should be less vague
+a65# topic of prroject was interesting some guest presentations were interesting nice slides
+a66# exercise garages
+a67# i liked the lectures they were well organized and the slides were useful didn not attend the exercise sessions the programming assignments were nice i feel like i learned a lot doing them
+a68# very polished learning by doing
+a69# project
+a70# lectures were pretty good nn2 videos were super useful
+a71# i enjoyed doing the assignments and i think i learned the most by trying to figure out what to do when i am doing these assignments
+a72# this kind of course has been good because many ml methods and approaches has been faced and also with a good level of detail
+a73# lot of online exercises projects etc instead of a single exam i think that it is a right way of running this course i also appreciated practical examples and humour in lessons
+a74# very interesting applications lots of hands on programming
+a75# in a lot of programming courses one is often presented with a program skeleton into which one needs to fillout a couple of lines of code however in this course i very much liked that the problems involved doing the whole process eg data import processing regression classification plotting in my opinion this gives a much better overall picture and makes it easier afterwards to start applying the methods to real world problems since one is familiar with all the steps of the process i also liked that the exercises were set up so that we were able to use the programming language of our choice since i was able to practice using python and its libraries instead of being forced to use eg matlab such as in a lot of other courses
+a76# interesting and important topics some good exercises
+a77# i really liked the combination of lectures quizzes home assignments and project nn1 was also a very inspiring professor
+a78# exercises were good
+a79# i liked lectures by nn3 it was very clear and easy to follow also there were a lot of explanatory pictures it was useful
+a80# lecture itself had good quality good structured
+a81# very important subject and good motivation to the topic via lecture examples and company presentations
+a82# really interesting class where i learn the basics i feel i understood what is behind all those numerous libraries available online a did not expect to do that much maths but i appreciated it as it helped me to understand machine learning techniques thanks
+a83# i liked the way of teaching with the example from the ski resort agency
+a84# i liked the combination of teaching and assignments as i understood the concepts more profoundly
+a85# the subject is interesting coding exercises were fun
+a86# the course gave a good broad overview of the basic ml terminology and tools providing a solid base for further studies in the topic
+a87# the provided reading material and prescribed youtube links supported my learning to a very large extent the guest lectures were also the highlights and showed real world implementations lectures were not very supportive but the slides were helpful in solving home assignments and quizzes
+a88# i liked that there is a project instead of an exam home assignments were good as well
+a89# the basic techniques to create models for data and predict the outcomes
+a90# quizzes and the several lectures of where to apply machine learning were very good very innovative course
+a91# rich combination of lectures guest lectures quizes home assignelnts project links to additional material agile approach for the course from the lecturer & tas practices adjusted as needed
+a92# doing the data analysis project
+a93# its the best course in aalto for getting a good basic understanding of machine learning the course has a strong focus on theory of machine learning
+a94# great home assignments and data analysis project
+a95# the exercises had nice balance between theory and practice
+a96# in lectures things were explaned very clearly and uderstandable it was also good that deadlines for home assignments were after lectures in the second period
+a97# project was fun and i learned during that a lot more than in the assignmentscourse staff was active committed and responsive
+a98# new teaching methods also course staff was interested in our learning which is a good motivator for us
+a99# response to feedback regarding the course lectures were also nice project was good and slack as communication platform works really well with so many students vs mycourses forum
+a100# project subject was interesting sadly did not get to put enough time into it or have a partner to discuss with overall great course enjoyed it
+a101# the guest lectures from companies utilizing machine learning in their operations were motivational
+a102# good links good communication about deadlines and requirements good variety of assignments
+a103# project work
+a104# great lecturing guest lectures helpful and eager course staff easy to pass and lot of encouragament for any form of participation through points
+a105# programming assignments in assignments were great
+a106# the main lecturer kept good lectures and seemed really into the subject
+a107# project
+a108# the exercise group
+a109# intresting topic and a lot of exercises
+a110# many different and interesting topics
+a111# interesting subject
+a112# great overview over ml
+a113# nb the following are copied from the  pros and cons questionnaire with small additions positive aspect 1 okay honestly i did write the negative points first as they are the ones that first come to my mind i will try to find some good things now 1 having peergrade is somewhat nice when it works i imagine that checking and grading all of our homework is very time consuming positive aspect 2 it is good that you share the latex templates they were useful positive aspect 3 the project work is a good way to learn and practice the things learned from the lectures
+a114# peergrading allowed for more detailed feedback with respect to understandable notation
+a115# the approach was quite practical which can be considered as a good thing also a wide range of topics was covered and this knowledge of the concepts will most likely be useful
+a116# lectures and programming assignments that gave hands-on experience
+a117# good slides and the topic is very interesting
+a118# the lecture slides were well written and the subjects taught were easily learned from the slides without attending the lecture exercises project tasks were very interesting
+a119# the adjustments made to the deadlines really helped me
+a120# the project work i learn best doing
+a121# the course is very good in many ways materials exercises assignment buzz discussion motivated staff 
+a122# its good that we got hands on with machine learning by concretely programming stuff the latex practice was nice and i really like that everything on the course could be done remotely
+a123# good basic description of the basics of machine learning good slides interesting topics
+a124# exercise garages
+a125# detailed supplementary materials outlined at the start of every lecture
+a126# home assignments were often really helpful in undertsnading course content
+a127# the exercises were great and hands on
+a128# topic was interesting and generally content was good slack channel and course staffs helpfullness there was really good and important
+a129# lectures were the best thing about this course although the examples were quite simple compared to the assignments
+a130# exercises had a good balance between theory and implementation
+a131# the course is actually able to get quite a broad spectrum of information to a well digestible interesting package many forms of assignments and material did support my learning but i actually think that the division of topics of the course is actually extremely good at supporting learning some things understandably go by a bit fast but from the start the topics are really intuitive to put in context which certainly is not true for all learining material in machine learning active helpful and motivated nature of course staff really makes the course feel alive and inspiring the nice side of peergrading was that it is actually amazing how much you can learn from other peoples solutions other people just learning and realizing the same topics some times have really helpful ways of describing those things
+a132# this course provides the basic idea of machine learning which i can use in my latter study
+a133# the data analysis project was helpful it was nice to have so much material to choose from
+a134# i like all the efforts you have to make a good course for students at different levels for many students machine learning is not an easy subject but i like that you always encourage us to continue providing many opportunities to ask questions and sending us bonus points many thanks for holding such a good course
+a135# wideranging assignments somewhat agile responds to workload and questions slack was good peergrade was interesting choice but i feel like a lot was left at the table because the usual feedback was really light   non-existing even though as grading was mandatory i had to look and think of the model solutions and solutions made by others which was a good learning possibility
+a136# it was good that there were multiple types of methods used in the teaching and assignments lectures multiple choice mathematical tasks code implementation project this helped in understanding the material from many perspectives
+a137# the exercises were good in helping me to learn and the lectures were superb the project was also good for learning
+a138# overall the course was useful for building basic knowledge and many concepts were clear home assignments quizzes and project helped in learning and implementing machine learning
+a139# versatile exercise types theoretical programming and project
+a140# the method and general structure of the course is very good
+a141# actually everything that was done was very very good
+a142# very good teaching style of the professor also nice decision to add some examples for applications of ml it was also a good experience to review other homeworks but see question 7
+a143# i truly loved this course bonus points along with open communication about questions on slack really helped in learning exercises and home assignments were designed in a good way too
+a144# no exam
+a145# there was enough time to work on assignments and quizes
+a146# project is good
+a147# lectures are given well-organized and concisely exercise sessions are good too
+a148# course format was interesting and provided material was thorough
+a149# the lecturer was clearly enthusiastic about the subject the slack channel was a good idea
+a150# the lectures were good and comprehensible
+a151# i liked the peer grading as we had the chance to see how other people tackled problems that you found difficult and you got feedback for the exercises one week after submitting it so you could see what you need to improve
+a152# project good lecturer
+a153# a lot effort was used
+a154# project work
+a155# assignments really helped to understand various course concepts
+a156# the topic was interesting and the book provided seems useful the amount of which i have read so far anyway i will most likely use the methods at some way in the future even if i did not complete the course
+a157# good strong introduction to machine learning methods
+a158# no exam i love how you can just do everything and get a good grade guest lectures were good for motivation
+a159# the big project was really interesting i learned a lot-
+a160# interesting topics and cool guest lectures even though they often advertised their companies more than talked about machine learning good exercises nice combination of programming assignments and theory though as a mathematician i would have liked even more theoretical sometimes positive and energetic lecturer
+a161# the organization extra materials and the project
+a162# lectures were good and lecture slides were clear and readable project was also interesting and supported learning
+a163# lectures
+a164# very good i like the kaggle competition
+a165# the project was nice
+a166# i liked the combination of has theoretical quizzes math and course project practical implementation which together provided a solid foundation for learning more also i think teaching was excellent and that the lecture slides had a good level of granularity
+a167# the course covered a very nice amount of different machine learning methods with a hands-on approach the teaching was very energetic
+a168# ml is hot topic nowadays i think i need to know something about it as a business student though its quite difficult for me i learnt something anyway
+a169# project was interesting forced to apply what i have learned
+a170# i really liked the lecturer because he was so enthusiastic about machine learning and knew how to inspire students to study this topic
+a171# nn1 this will become a fantastic course but it still needs some tuning you are on the right tracks  frohe weihnachten
+a172# the course syllabus was wide and varied i learned a lot of things the use of kaggle was a great idea
+a173# the project was very good
+a174# thank you for the course it was nice to have teacher who was really motivated to teach and also excited about the topic itself here i made a list of things that supported my learning 1 lectures i really liked the lectures teaching style annotations and also guest lectures were really interesting i feel i learned a lot during the lectures 2 project work first i was nervous how i would manage to do a real machine learning thing by myself but when i started i get really excited and could not stop i feel i learned a lot as i also tried many unnecessary things next year there could be maybe several mini-projects where students could try some methods with the real data 3 assigments most of the assignments supported my learning and understanding 4 slack i liked that there was a form where you could easily ask help as the problems where sometimes quite hard 5the keen of teacher to make the course better during the course i had a feeling the teacher is really listening us and tries to make a really good course and learning experience
+a175# the openness to all students from all fields the teaching assistants and professor were very helpful the project was very interesting
+a176# i really liked that we had weekly assignments which were helpful but extremely time-consuming the project also was organized very nicely
+a177# lectures  assignments and project are very helpful and support my learning during the course slack discussion was helping me to solve the assignments
+a178# it is really hard to find anything good about the course i think the forums and slack were great
+a179# course stuff had really but effort on the course and the quality of the course was one of the best meet this far
+a180# the lectures were very good assignments and project was very interesting
+a181# the exercise garages
+a182# nn1 was really good lecturer also it was good that the course was able to change dynamically during the course since it was really overbooked in the beginning the peergrading system was great good start all in all for the new course structure
+a183# data project interesting guests at the lecture some of home assignments
